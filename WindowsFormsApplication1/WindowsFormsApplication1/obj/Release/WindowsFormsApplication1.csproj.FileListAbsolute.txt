@@ -1,0 +1,28 @@
+C:\Users\Aprihadi Perdana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Aprihadi Perdana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Aprihadi Perdana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Aprihadi Perdana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Aprihadi Perdana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aprihadi Perdana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Aprihadi Perdana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Aprihadi Perdana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MySql.Data.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Microsoft.Azure.Management.ResourceManager.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Microsoft.Rest.ClientRuntime.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.xml
